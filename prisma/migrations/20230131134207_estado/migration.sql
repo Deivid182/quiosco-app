@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `Orden` ADD COLUMN `Estado` BOOLEAN NOT NULL DEFAULT false;
